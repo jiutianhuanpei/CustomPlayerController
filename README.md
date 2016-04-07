@@ -10,4 +10,3 @@
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/3.png)
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/4.png)
 
-![](https://github.com/jiutianhuanpei/CustomPlayerController/blob/master/AVPlayerDemo/ScreenShots/4.png?raw=true">)
